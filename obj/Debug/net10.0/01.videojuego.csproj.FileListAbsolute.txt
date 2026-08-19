@@ -1,0 +1,15 @@
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\bin\Debug\net10.0\01.videojuego.exe
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\bin\Debug\net10.0\01.videojuego.deps.json
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\bin\Debug\net10.0\01.videojuego.runtimeconfig.json
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\bin\Debug\net10.0\01.videojuego.dll
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\bin\Debug\net10.0\01.videojuego.pdb
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.sourcelink.json
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.dll
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\refint\01.videojuego.dll
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.pdb
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\01.videojuego.genruntimeconfig.cache
+C:\Users\agust\OneDrive\Documentos\videojuego 1\01.videojuego\obj\Debug\net10.0\ref\01.videojuego.dll
